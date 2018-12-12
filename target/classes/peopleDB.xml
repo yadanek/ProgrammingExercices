@@ -1,0 +1,30 @@
+<people>
+    <person>
+        <name>Przemek</name>
+        <surname>Zawadzki</surname>
+        <pesel>9535465468</pesel>
+        <id_number>HGH67686</id_number>
+        <address>Bialystok Politechnika Biaostocka Wiejska 42</address>
+    </person>
+    <person>
+        <name>Franek</name>
+        <surname>Zawadzki</surname>
+        <pesel>5465466546</pesel>
+        <id_number>HGH213321</id_number>
+        <address>Bialystok Politechnika Biaostocka Wiejska 45</address>
+    </person>
+    <person>
+        <name>Jarosław</name>
+        <surname>Kaczynski</surname>
+        <pesel>2565466546</pesel>
+        <id_number>HGH325321</id_number>
+        <address>Bialystok Politechnika Biaostocka Wiejska 47</address>
+    </person>
+    <person>
+        <name>Ola</name>
+        <surname>Roleska</surname>
+        <pesel>9875466546</pesel>
+        <id_number>HGH213536</id_number>
+        <address>Bialystok Politechnika Biaostocka Wiejska 41</address>
+     </person>
+</people>
